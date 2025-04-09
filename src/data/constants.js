@@ -7,10 +7,10 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "As a tech enthusiast, I specialize in DevOps, AWS, Full Stack Web Development, and Machine Learning. AWS certified, I design scalable solutions. With expertise in Full Stack Web Development, I excel in dynamic web apps. Passionate about Machine Learning, I explore data science, building predictive models. Let's connect and innovate together!",
+    "As a tech enthusiast, I specialize in AWS, Full Stack Web Development, and Machine Learning. AWS certified, I design scalable solutions. With expertise in Full Stack Web Development, I excel in dynamic web apps. Passionate about Machine Learning, I explore data science, building predictive models. Let's connect and innovate together!",
   github: "https://github.com/Akshyansu3479",
   resume:
-    "https://drive.google.com/file/d/1y_ox5mIrbHIbLby3YRSKL09kf9KNmgP5/view?usp=sharing",
+    "https://drive.google.com/file/d/1PdDxyYBXku1vxB7Wm6JQe8grWsZF63v2/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/akshyansu-pritam-b39666220/",
   twitter: "https://twitter.com/AkshyansuPritam",
   insta: "https://www.instagram.com/akshyansu/",
